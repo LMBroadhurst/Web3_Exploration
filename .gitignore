@@ -23,9 +23,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-.pack
-.json
+*.pack
+*.json
 @*
-.ps1
-.map
-.md
+*.ps1
+*.map
