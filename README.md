@@ -6,7 +6,7 @@
 - [ ] Aave Flash Loan Tutorial - Finding Arbitrage (https://www.youtube.com/watch?v=Aw7yvGFtOvI&ab_channel=PatrickCollins)
 - [ ] Deploying and Debugging Smart Contracts on Polygon (https://learn.figment.io/tutorials/deploying-and-debugging-smart-contracts-on-polygon)
 - [ ] Web3.js Intro (https://www.youtube.com/watch?v=t3wM5903ty0&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY&index=34&ab_channel=DappUniversity)
-- [ ] Ethereum Dev Bootcamp (https://university.alchemy.com/home)
+- [x] Ethereum Dev Bootcamp (https://university.alchemy.com/home)
 - [ ] https://www.dappuniversity.com/
 
 ## Project Ideas (all full stack)
